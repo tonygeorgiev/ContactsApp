@@ -1,0 +1,27 @@
+<form [formGroup]="contactForm" (ngSubmit)="onSubmit()">
+    <div>
+        <label for="firstName">First Name:</label>
+        <input id="firstName" type="text" formControlName="FirstName" pInputText />
+    </div>
+    <div>
+        <label for="surname">Surname:</label>
+        <input id="surname" type="text" formControlName="Surname" pInputText />
+    </div>
+    <div>
+        <label for="dob">Date of Birth:</label>
+        <p-calendar id="dob" type="date" formControlName="DOB"></p-calendar>
+    </div>
+    <div>
+        <label for="address">Address:</label>
+        <input id="address" type="text" formControlName="Address" pInputText />
+    </div>
+    <div>
+        <label for="phoneNumber">Phone Number:</label>
+        <input id="phoneNumber" type="text" formControlName="PhoneNumber" pInputText />
+    </div>
+    <div>
+        <label for="iban">IBAN:</label>
+        <input id="iban" type="text" formControlName="IBAN" pInputText />
+    </div>
+    <button pButton type="submit" label="Submit"></button>
+</form>

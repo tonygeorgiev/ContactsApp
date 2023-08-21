@@ -1,0 +1,17 @@
+C:\Users\tonyg\source\repos\Contacts\Contacts.Application\Contacts.Application\obj\Debug\net7.0\Contacts.Application.csproj.AssemblyReference.cache
+C:\Users\tonyg\source\repos\Contacts\Contacts.Application\Contacts.Application\obj\Debug\net7.0\Contacts.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tonyg\source\repos\Contacts\Contacts.Application\Contacts.Application\obj\Debug\net7.0\Contacts.Application.AssemblyInfoInputs.cache
+C:\Users\tonyg\source\repos\Contacts\Contacts.Application\Contacts.Application\obj\Debug\net7.0\Contacts.Application.AssemblyInfo.cs
+C:\Users\tonyg\source\repos\Contacts\Contacts.Application\Contacts.Application\obj\Debug\net7.0\Contacts.Application.csproj.CoreCompileInputs.cache
+C:\Users\tonyg\source\repos\Contacts\Contacts.Application\Contacts.Application\bin\Debug\net7.0\Contacts.Application.deps.json
+C:\Users\tonyg\source\repos\Contacts\Contacts.Application\Contacts.Application\bin\Debug\net7.0\Contacts.Application.dll
+C:\Users\tonyg\source\repos\Contacts\Contacts.Application\Contacts.Application\bin\Debug\net7.0\Contacts.Application.pdb
+C:\Users\tonyg\source\repos\Contacts\Contacts.Application\Contacts.Application\bin\Debug\net7.0\Contacts.Contracts.dll
+C:\Users\tonyg\source\repos\Contacts\Contacts.Application\Contacts.Application\bin\Debug\net7.0\Contacts.Domain.dll
+C:\Users\tonyg\source\repos\Contacts\Contacts.Application\Contacts.Application\bin\Debug\net7.0\Contacts.Contracts.pdb
+C:\Users\tonyg\source\repos\Contacts\Contacts.Application\Contacts.Application\bin\Debug\net7.0\Contacts.Domain.pdb
+C:\Users\tonyg\source\repos\Contacts\Contacts.Application\Contacts.Application\obj\Debug\net7.0\Contacts.Application.csproj.CopyComplete
+C:\Users\tonyg\source\repos\Contacts\Contacts.Application\Contacts.Application\obj\Debug\net7.0\Contacts.Application.dll
+C:\Users\tonyg\source\repos\Contacts\Contacts.Application\Contacts.Application\obj\Debug\net7.0\refint\Contacts.Application.dll
+C:\Users\tonyg\source\repos\Contacts\Contacts.Application\Contacts.Application\obj\Debug\net7.0\Contacts.Application.pdb
+C:\Users\tonyg\source\repos\Contacts\Contacts.Application\Contacts.Application\obj\Debug\net7.0\ref\Contacts.Application.dll

@@ -1,0 +1,12 @@
+C:\Users\tonyg\source\repos\Contacts\Contacts.Domain\Contacts.Domain\bin\Debug\net7.0\Contacts.Domain.deps.json
+C:\Users\tonyg\source\repos\Contacts\Contacts.Domain\Contacts.Domain\bin\Debug\net7.0\Contacts.Domain.dll
+C:\Users\tonyg\source\repos\Contacts\Contacts.Domain\Contacts.Domain\bin\Debug\net7.0\Contacts.Domain.pdb
+C:\Users\tonyg\source\repos\Contacts\Contacts.Domain\Contacts.Domain\obj\Debug\net7.0\Contacts.Domain.csproj.AssemblyReference.cache
+C:\Users\tonyg\source\repos\Contacts\Contacts.Domain\Contacts.Domain\obj\Debug\net7.0\Contacts.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tonyg\source\repos\Contacts\Contacts.Domain\Contacts.Domain\obj\Debug\net7.0\Contacts.Domain.AssemblyInfoInputs.cache
+C:\Users\tonyg\source\repos\Contacts\Contacts.Domain\Contacts.Domain\obj\Debug\net7.0\Contacts.Domain.AssemblyInfo.cs
+C:\Users\tonyg\source\repos\Contacts\Contacts.Domain\Contacts.Domain\obj\Debug\net7.0\Contacts.Domain.csproj.CoreCompileInputs.cache
+C:\Users\tonyg\source\repos\Contacts\Contacts.Domain\Contacts.Domain\obj\Debug\net7.0\Contacts.Domain.dll
+C:\Users\tonyg\source\repos\Contacts\Contacts.Domain\Contacts.Domain\obj\Debug\net7.0\refint\Contacts.Domain.dll
+C:\Users\tonyg\source\repos\Contacts\Contacts.Domain\Contacts.Domain\obj\Debug\net7.0\Contacts.Domain.pdb
+C:\Users\tonyg\source\repos\Contacts\Contacts.Domain\Contacts.Domain\obj\Debug\net7.0\ref\Contacts.Domain.dll

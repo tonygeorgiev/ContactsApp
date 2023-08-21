@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "I0JweCDmcm3rke4YWVG1snM+3Hx//j8g10bL5wecoezH/QNVnoTj4BnrQvIwg5+KShTix9nmEW2+Qxv2TaDGpQ==",
+  "success": true,
+  "projectFilePath": "C:\\123\\ContactsApp\\Contacts.Application\\Contacts.Application\\Contacts.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tonyg\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\tonyg\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\tonyg\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\tonyg\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\tonyg\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
