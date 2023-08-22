@@ -11,7 +11,9 @@ $RECYCLE.BIN/
 
 # VS Code directories
 .vscode/
-
+.vs
+.bin
+.obj
 # Windows Installer files
 *.cab
 *.msi

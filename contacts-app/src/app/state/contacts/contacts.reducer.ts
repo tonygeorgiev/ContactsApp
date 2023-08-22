@@ -10,8 +10,7 @@ export const initialState: ContactsState = {
 
 export const contactsReducer = createReducer(
   initialState,
-  on(ContactsActions.loadContactsSuccess, (state, { data }) => ({ ...state, data: [...data] })),
-  on(ContactsActions.loadContactsFailure, (state, { error }) => ({ ...state, error })),
+
   on(ContactsActions.addContactSuccess, (state, { contact }) => ({ ...state, data: [...state.data, contact] })),
   on(ContactsActions.addContactFailure, (state, { error }) => ({ ...state, error }))
 );

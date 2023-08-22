@@ -1,5 +1,5 @@
 
-import { ContactRequest } from 'src/app/models/ContactRequest';
+import { ContactRequest } from '../../models/ContactRequest';
 
 export interface AppState {
     contacts: ContactsState;

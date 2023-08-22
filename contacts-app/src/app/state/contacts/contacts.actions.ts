@@ -1,8 +1,9 @@
 import { createAction, props } from '@ngrx/store';
-import { ContactRequest } from 'src/app/models/ContactRequest';
+import { ContactResponse } from '../../models/ContactResponse';
+import { ContactRequest } from '../../models/ContactRequest';
 
 export const loadContacts = createAction('[Contacts] Load Contacts');
-export const loadContactsSuccess = createAction('[Contacts] Load Contacts Success', props<{ data: ContactRequest[] }>());
+export const loadContactsSuccess = createAction('[Contacts] Load Contacts Success', props<{ data: ContactResponse[] }>());
 export const loadContactsFailure = createAction('[Contacts] Load Contacts Failure', props<{ error: any }>());
 
 // Actions for adding a contact

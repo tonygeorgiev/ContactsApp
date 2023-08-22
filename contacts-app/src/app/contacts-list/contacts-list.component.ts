@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { ContactService } from 'src/app/services/contacts.service';
+import { ContactService } from '../services/contacts.service';
 import { ContactResponse } from '../models/ContactResponse';
 
 @Component({
@@ -16,13 +16,14 @@ export class ContactsListComponent implements OnInit {
   }
 
   ngOnInit(): void {
-  this.loadContacts();
+  this.loadContacts();console.log(this.contacts);
   }
 
   private loadContacts(): void {
     this.service.getAll().subscribe(
       data => this.contacts = data,
       error => console.error('Error loading contacts:', error)
+      
     );
   }
 }

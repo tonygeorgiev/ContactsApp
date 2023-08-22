@@ -1,12 +1,8 @@
 export class ContactResponse {
     constructor(
-      public id: number,
-      public firstName: string,
-      public surname: string,
-      public dob: Date,
-      public address: string,
+      public fullname: string,
+      public age: number,
       public phoneNumber: string,
-      public iban: string
     ) {}
   }
   
