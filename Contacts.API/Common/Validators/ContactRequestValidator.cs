@@ -16,16 +16,20 @@ namespace Contacts.API.Common.Validators
                 .MaximumLength(25);
 
             RuleFor(x => x.Address)
+                .NotEmpty()
                 .MaximumLength(100);
 
             RuleFor(x => x.DOB)
+                .NotEmpty()
                 .LessThan(DateTime.Today);
 
             RuleFor(x => x.PhoneNumber)
                 .NotEmpty()
                 .MaximumLength(20);
 
-            RuleFor(x => x.IBAN).Length(34); 
+            RuleFor(x => x.IBAN)
+                .NotEmpty()
+                .Length(34); 
         }
     }
 }
