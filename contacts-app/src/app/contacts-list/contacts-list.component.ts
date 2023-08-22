@@ -16,7 +16,7 @@ export class ContactsListComponent implements OnInit {
   }
 
   ngOnInit(): void {
-  this.loadContacts();console.log(this.contacts);
+  this.loadContacts();
   }
 
   private loadContacts(): void {
